@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oi! Eu sou a Brenda Chagas 👋
+- 🔭 Estou atualmente em transição de carreira
+- 🌱 Estou em um bootcamp de desenvolvimento JAVA FULL STACK
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fato engraçado: as vezes sei quando estou sonhando e consigo controlar as coisas que acontecem dentro do sonho.
 
-<!--
-**Brehchs/brehchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/brehchs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brehchs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brehchs&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
