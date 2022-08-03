@@ -14,7 +14,6 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Breh-Js" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breh-React" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="right" alt="Breh-pic" height="150" style="border-radius:50px;" 
 </div>
 
   ##
