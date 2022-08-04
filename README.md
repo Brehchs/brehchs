@@ -1,5 +1,4 @@
 ### Oi! Eu sou a Brenda Chagas 👋
-- 🔭 Estou atualmente em transição de carreira
 - 🌱 Estou em um bootcamp de desenvolvimento JAVA FULL STACK
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato engraçado: as vezes sei quando estou sonhando e consigo controlar as coisas que acontecem dentro do sonho.
